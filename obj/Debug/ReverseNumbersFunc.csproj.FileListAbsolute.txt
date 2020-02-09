@@ -1,0 +1,6 @@
+C:\Users\sarah\source\repos\ReverseNumbersFunc\bin\Debug\ReverseNumbersFunc.exe.config
+C:\Users\sarah\source\repos\ReverseNumbersFunc\bin\Debug\ReverseNumbersFunc.exe
+C:\Users\sarah\source\repos\ReverseNumbersFunc\bin\Debug\ReverseNumbersFunc.pdb
+C:\Users\sarah\source\repos\ReverseNumbersFunc\obj\Debug\ReverseNumbersFunc.csprojAssemblyReference.cache
+C:\Users\sarah\source\repos\ReverseNumbersFunc\obj\Debug\ReverseNumbersFunc.exe
+C:\Users\sarah\source\repos\ReverseNumbersFunc\obj\Debug\ReverseNumbersFunc.pdb
